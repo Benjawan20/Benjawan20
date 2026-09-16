@@ -3,7 +3,7 @@
 src="https://s.isanook.com/ca/0/ui/279/1396205/download20190701165129_1562561119.jpg" width="100" height="100" />
 Hi 👋 My name is Benjawan WAIPIM
 ================================
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=benjawan20&color=green)
 
 * ✉️  You can contact me at [benjawan.wai@ku.th](mailto:benjawan.wai@ku.th)
 
